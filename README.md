@@ -4,7 +4,7 @@ App com Tkinter Python
 
 ## Instalacao
 Intalacao do tk no sistema:
-- $ sudo apt install python-tk
+- $ sudo apt install python3-tk
 
 Criacao Virtual Enviroment:
 - $ python3 -m venv .env
