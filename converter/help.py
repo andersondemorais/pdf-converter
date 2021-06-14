@@ -5,9 +5,9 @@
 Directory:
 Documentation: 
 """
-__author__   	= 'Fudencio'
-__copyright__	= 'Copyright 2020, Mimimi'
-__email__    	= 'neopunkat@gmail.com'
+__author__   	= 'Anderson Morais'
+__copyright__	= 'Copyright 2020'
+__email__    	= ''
 __date__     	= '2020-12-09 11:39:13'
 __version__  	= '0.0.0'
 __status__   	= ''
